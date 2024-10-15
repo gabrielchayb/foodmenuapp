@@ -2,7 +2,8 @@
  " python3 -m venv meu_ambiente_virtual "
 - entre no ambiente virtual: 
  " source meu_ambiente_virtual/bin/activate "
-
+- atualize o pip 
+" pip install --upgrade pip "
 - instale o django 
  " pip install django "
 - inicie o django 
